@@ -1,0 +1,24 @@
+.box{
+    border: 1px solid black ;
+}
+.box1{
+    border: 3px groove yellow;
+}
+.box2{
+    border: 3px ridge brown;
+}
+.box3{
+    border: 3px double tomato;
+}
+.box4{
+    border: 3px dashed green ;
+}
+.box5{
+    border: 3px dotted blue;
+}
+.box6{
+    border: 3px inset grey;
+}
+.box7{
+    border: 3px outset re;
+}
